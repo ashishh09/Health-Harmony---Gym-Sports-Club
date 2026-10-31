@@ -1,0 +1,6 @@
+{
+  "name": "Health & Harmony - Gym & Sports Club",
+  "description": "Premium static website for Health & Harmony Gym and Sports Club in Chhatrapati Sambhajinagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
